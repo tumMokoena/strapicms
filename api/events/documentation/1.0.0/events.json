@@ -529,10 +529,13 @@
             "type": "string",
             "format": "date"
           },
-          "event_time": {
+          "Location": {
             "type": "string"
           },
-          "Location": {
+          "start_time": {
+            "type": "string"
+          },
+          "end_time": {
             "type": "string"
           },
           "published_at": {
@@ -550,10 +553,13 @@
             "type": "string",
             "format": "date"
           },
-          "event_time": {
+          "Location": {
             "type": "string"
           },
-          "Location": {
+          "start_time": {
+            "type": "string"
+          },
+          "end_time": {
             "type": "string"
           },
           "published_at": {
